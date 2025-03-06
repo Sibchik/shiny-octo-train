@@ -5,6 +5,6 @@ shiny-octo-train new repository
 
 Бондаренко Гордей 
 
-Канюк 
+Канюк Артем
 
 Еманов
