@@ -7,4 +7,4 @@ shiny-octo-train new repository
 
 Канюк Артем
 
-Еманов
+Еманов Константин 
